@@ -1,6 +1,6 @@
 # Hi 👋
 
-I build **AI-native product features** and complex **React/Node applications** for startups and scaleups.
+I build **AI-native product features** and complex **React/Next.js applications** for startups and scaleups.
 
 At **Microsoft** I was primary engineer on high-visibility Teams features used by millions. Before that, 3+ years as a **tech lead** owning architecture, monorepo migrations, and end-to-end testing infrastructure across large codebases.
 
