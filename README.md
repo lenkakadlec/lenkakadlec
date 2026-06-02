@@ -1,16 +1,25 @@
-### Lenka Kadlec
+# Hi 👋
 
-I build AI-native product features and complex React/Node applications for startups and scaleups.
+I build **AI-native product features** and complex **React/Node applications** for startups and scaleups.
 
-At Microsoft I was primary engineer on high-visibility Teams features used by millions. Before that, 3+ years as tech lead owning architecture, monorepo migrations, and end-to-end testing infrastructure across large codebases.
+At **Microsoft** I was primary engineer on high-visibility Teams features used by millions. Before that, 3+ years as a **tech lead** owning architecture, monorepo migrations, and end-to-end testing infrastructure across large codebases.
 
-What I've shipped:
-- multi-tenant app with RBAC, subscription billing (Lemon Squeezy), and an AI assistant that triggers real in-app actions by voice (create projects, assign tasks, query status through natural language)
-- Redis caching, Cloudflare edge delivery, S3 image storage, PWA, rate limiting, full E2E test coverage
-- Auth, database schema design (PostgreSQL/Prisma), API architecture, background jobs, audit logging across all projects
+### What I've shipped
 
-The AI work is where I add the most value right now. Most teams are struggling to move from “let’s add a chat widget” to “users can actually do things through AI.” I’ve shipped that — voice-driven actions, confirmations, state mutations, not a wrapper.
+- **Multi-tenant SaaS with a voice-driven AI assistant** that triggers real in-app actions through natural language — create projects, assign tasks, query status — with confirmations and real state mutations, not a chat wrapper. RBAC and subscription billing (Lemon Squeezy) included.
+- **Production infrastructure:** Redis caching, Cloudflare edge delivery, S3 image storage, PWA, rate limiting, full E2E test coverage.
+- **Platform foundations across projects:** auth, PostgreSQL/Prisma schema design, API architecture, background jobs, audit logging.
 
-Stack: React, TypeScript, Next.js, Node.js, PostgreSQL, Prisma, Supabase, Redis, Anthropic Claude API
+### Where I add the most value
 
-Available for contract work — typically 3-month engagements, remote, US/EU time zones.
+Most teams are stuck moving from *"let's add a chat widget"* to *"users can actually do things through AI."* I've shipped that side: voice-driven actions, confirmations, state mutations — not a wrapper.
+
+### Stack
+
+`React` · `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `Prisma` · `Supabase` · `Redis` · `Anthropic Claude API`
+
+---
+
+**Available for contract work** — typically 3-month engagements, remote, US/EU time zones.
+
+📫 lenka@lenkakadlec.com · https://www.linkedin.com/in/lenka-kadlec/ · https://lenkakadlec.com
