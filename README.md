@@ -20,6 +20,6 @@ Most teams are stuck moving from *"let's add a chat widget"* to *"users can actu
 
 ---
 
-**Available for contract work** — typically 3-month engagements, remote, US/EU time zones.
+**Available for interesting projects**
 
 📫 lenka@lenkakadlec.com · https://www.linkedin.com/in/lenka-kadlec/ · https://lenkakadlec.com
