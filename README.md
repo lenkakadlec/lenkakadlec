@@ -12,7 +12,7 @@ At **Microsoft** I was primary engineer on high-visibility Teams features used b
 
 ### Where I add the most value
 
-Most teams are stuck moving from *"let's add a chat widget"* to *"users can actually do things through AI."* I've shipped that side: voice-driven actions, confirmations, state mutations — not a wrapper.
+Most teams are stuck moving from *"let's add a chat widget"* to *"users can actually do things through AI."* I've shipped that side: voice-driven actions, confirmations, state mutations, not a wrapper.
 
 ### Stack
 
