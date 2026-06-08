@@ -10,7 +10,9 @@ At **Microsoft** I was primary engineer on high-visibility Teams features used b
 - **Production infrastructure:** Redis caching, Cloudflare edge delivery, S3 image storage, PWA, rate limiting, full E2E test coverage.
 - **Platform foundations across projects:** auth, PostgreSQL/Prisma schema design, API architecture, background jobs, audit logging.
 
-![Sound Agent](ai-sidebar-org-summary.png)
+<p align="center">
+  <img src="ai-sidebar-org-summary.png" alt="Sound Agent" width="600">
+</p>
 
 ### Where I add the most value
 
