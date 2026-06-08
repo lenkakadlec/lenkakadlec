@@ -10,6 +10,8 @@ At **Microsoft** I was primary engineer on high-visibility Teams features used b
 - **Production infrastructure:** Redis caching, Cloudflare edge delivery, S3 image storage, PWA, rate limiting, full E2E test coverage.
 - **Platform foundations across projects:** auth, PostgreSQL/Prisma schema design, API architecture, background jobs, audit logging.
 
+![Sound Agent](ai-sidebar-org-summary.png)
+
 ### Where I add the most value
 
 Most teams are stuck moving from *"let's add a chat widget"* to *"users can actually do things through AI."* I've shipped that side: voice-driven actions, confirmations, state mutations, not a wrapper.
