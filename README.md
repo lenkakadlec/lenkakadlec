@@ -1,4 +1,4 @@
-# Hi 👋
+# Welcome to my profile
 
 I build **AI-native product features** and complex **React/Next.js applications** for startups and scaleups.
 
