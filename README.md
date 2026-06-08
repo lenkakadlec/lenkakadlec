@@ -20,6 +20,6 @@ Most teams are stuck moving from *"let's add a chat widget"* to *"users can actu
 
 ---
 
-**Available for interesting projects**
+**Available for new projects**
 
 📫 lenka@lenkakadlec.com · https://www.linkedin.com/in/lenka-kadlec/ · https://lenkakadlec.com
