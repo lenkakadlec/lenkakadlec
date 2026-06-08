@@ -11,7 +11,7 @@ At **Microsoft** I was primary engineer on high-visibility Teams features used b
 - **Platform foundations across projects:** auth, PostgreSQL/Prisma schema design, API architecture, background jobs, audit logging.
 
 <p align="center">
-  <img src="ai-sidebar-org-summary.png" alt="Sound Agent" width="600">
+  <img src="kanban-ai-action.png" alt="Sound Agent" width="600">
 </p>
 
 ### Where I add the most value
